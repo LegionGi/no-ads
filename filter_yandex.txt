@@ -1,0 +1,23 @@
+!
+! Title: Yandex block ads
+! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking.
+! Homepage: 
+! Last modified: 2023-12-17
+!
+! Compiled by LegionGi
+!
+!
+! Source name: Yandex block ads
+! Source: 
+!
+
+
+
+||avatars.mds.yandex.net^
+||pixel.yabidos.com^
+||an.yandex.ru^
+||mc.yandex.ru^
+||advertising.yandex.ru^
+||bs-meta.yandex.ru^
+||grade.market.yandex.ru^
+||yandexadexchange.net^
