@@ -34,3 +34,4 @@
 ||yandex.net^
 ||ads.adfox.ru^
 ||yastatic.net^
+||yandex.com^
