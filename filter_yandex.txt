@@ -10,7 +10,7 @@
 ! Source name: Yandex block ads
 ! Source: 
 !
-
+@@mail.yandex.ru^
 
 
 ||report.appmetrica.yandex.net^
