@@ -36,4 +36,7 @@
 ||yastatic.net^
 ||yandex.com^
 ||an.yandex.ru^
-
+||adfox.yandex.ru^
+||adsdk.yandex.ru^
+||awaps.yandex.ru^
+||bs.yandex.ru^
