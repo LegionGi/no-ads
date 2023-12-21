@@ -31,7 +31,7 @@
 ||securepubads.g.doubleclick.net^
 ||avatars.mds.yandex.net^
 ||yandex.net^
-||yandex.ru/an^
+||yandex.ru^
 ||ads.adfox.ru^
 ||yastatic.net^
 ||yandex.com^
