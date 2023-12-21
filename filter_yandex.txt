@@ -27,11 +27,11 @@
 ||clck.yandex.ru^
 ||informer.yandex.ru^
 ||storage.mds.yandex.net^
-||yandex.ru^
 ||strm.yandex.ru^
 ||securepubads.g.doubleclick.net^
 ||avatars.mds.yandex.net^
 ||yandex.net^
+||yandex.ru/an^
 ||ads.adfox.ru^
 ||yastatic.net^
 ||yandex.com^
