@@ -11,7 +11,7 @@
 ! Source: 
 !
 @@||mail.yandex.ru^
-
+@@||https://360.yandex.ru/^
 
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
