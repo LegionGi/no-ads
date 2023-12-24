@@ -5,7 +5,7 @@
 ! Last modified: 2023-12-17
 !
 ! Compiled by LegionGi
-!
+
 !
 ! Source name: Yandex block ads
 ! Source: https://github.com/LegionGi
@@ -135,7 +135,6 @@
 ||appmetrica.yandex.ru^
 ||awsync.yandex.ru^
 ||bs.yandex.ru^
-||log.strm.yandex.ru^
 ||uaas.yandex.ru^
 ||banners-slb.mobile.yandex.net^
 ||banners.mobile.yandex.net^
