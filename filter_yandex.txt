@@ -13,7 +13,7 @@
 
 
 ! allow list:
-
+@@||passport.yandex.ru^
 @@||afisha.yandex.ru^
 @@||auto.yandex.ru^
 @@||blogs.yandex.ru^
@@ -32,6 +32,7 @@
 @@||internet.yandex.ru^
 @@||keyboard.yandex.ru^
 @@||mail.yandex.ru^
+@@||360.yandex.ru^
 @@||maps.yandex.ru^
 @@||market.yandex.ru^
 @@||metrika.yandex.ru^
