@@ -61,6 +61,7 @@
 @@||wdgt.yandex.ru^
 @@||webmaster.yandex.ru^
 @@||yaca.yandex.ru^
+@@||strm.yandex.ru^
 
 ! block list:
 
@@ -79,7 +80,6 @@
 ||clck.yandex.ru^
 ||informer.yandex.ru^
 ||storage.mds.yandex.net^
-||strm.yandex.ru^
 ||securepubads.g.doubleclick.net^
 ||avatars.mds.yandex.net^
 ||yandex.org^
