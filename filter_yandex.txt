@@ -120,7 +120,6 @@
 ||storage.mds.yandex.net^
 ||securepubads.g.doubleclick.net^
 ||avatars.mds.yandex.net^
-
 ||yandex.ru^
 ||ads.adfox.ru^
 ||yastatic.net^
