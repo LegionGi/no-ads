@@ -8,12 +8,61 @@
 !
 !
 ! Source name: Yandex block ads
-! Source: 
-!
+! Source: https://github.com/LegionGi
+
+
+
+! allow list:
+
+@@||afisha.yandex.ru^
+@@||auto.yandex.ru^
+@@||blogs.yandex.ru^
+@@||bm.yandex.ru^
+@@||browser.yandex.ru^
+@@||calendar.yandex.ru^
+@@||collection.yandex.ru^
+@@||disk.yandex.ru^
+@@||ege.yandex.ru^
+@@||element.yandex.ru^
+@@||fotki.yandex.ru^
+@@||fx.yandex.ru^
+@@||help.yandex.ru^
+@@||ie.yandex.ru^
+@@||images.yandex.ru^
+@@||internet.yandex.ru^
+@@||keyboard.yandex.ru^
 @@||mail.yandex.ru^
-@@||360.yandex.ru^
-@@||music.yandex.ru^
 @@||maps.yandex.ru^
+@@||market.yandex.ru^
+@@||metrika.yandex.ru^
+@@||mobile.yandex.ru^
+@@||music.yandex.ru^
+@@||n.maps.yandex.ru^
+@@||news.yandex.ru^
+@@||opera.yandex.ru^
+@@||pdd.yandex.ru^
+@@||pogoda.yandex.ru^
+@@||probki.yandex.ru^
+@@||punto.yandex.ru^
+@@||rabota.yandex.ru^
+@@||rasp.yandex.ru^
+@@||realty.yandex.ru^
+@@||site.yandex.ru^
+@@||translate.yandex.ru^
+@@||soft.yandex.ru^
+@@||sprav.yandex.ru^
+@@||stat.yandex.ru^
+@@||taxi.yandex.ru^
+@@||ticket.yandex.ru^
+@@||time.yandex.ru^
+@@||tv.yandex.ru^
+@@||video.yandex.ru^
+@@||visual.yandex.ru^
+@@||wdgt.yandex.ru^
+@@||webmaster.yandex.ru^
+@@||yaca.yandex.ru^
+
+! block list:
 
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
