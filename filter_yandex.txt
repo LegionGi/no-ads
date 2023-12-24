@@ -102,7 +102,7 @@
 
 
 ! block list:
-
+||dzeninfra.ru^
 ||dzen.ru^
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
