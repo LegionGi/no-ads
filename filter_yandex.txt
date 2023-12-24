@@ -62,6 +62,8 @@
 @@||webmaster.yandex.ru^
 @@||yaca.yandex.ru^
 @@||strm.yandex.ru^
+@@||ott.yandex.net^
+@@||plus.yandex.net^
 
 ! block list:
 
