@@ -64,6 +64,7 @@
 
 ! block list:
 
+||dzen.ru^
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
 ||avatars.mds.yandex.net^
