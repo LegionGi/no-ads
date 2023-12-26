@@ -71,7 +71,8 @@
 
 ! block list:
 ||dzeninfra.ru^
-||dzen.ru^
+||dzen.ru/ads/^
+||yandex.ru/ads/^
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
 ||avatars.mds.yandex.net^
@@ -87,7 +88,6 @@
 ||informer.yandex.ru^
 ||storage.mds.yandex.net^
 ||securepubads.g.doubleclick.net^
-||yandex.ru^
 ||ads.adfox.ru^
 ||yastatic.net^
 ||yandex.com^
