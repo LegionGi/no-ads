@@ -71,6 +71,7 @@
 
 ! block list:
 /yandex.ru/an/
+/yandex.ru/ads/
 ||cackle.me^
 ||log.strm.yandex.ru^
 ||dzeninfra.ru/ads/*^
