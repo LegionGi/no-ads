@@ -70,7 +70,7 @@
 
 
 ! block list:
-
+||counter.yadro.ru^
 ||cackle.me^
 ||log.strm.yandex.ru^
 ||dzeninfra.ru/ads/*
