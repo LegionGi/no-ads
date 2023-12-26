@@ -70,6 +70,8 @@
 
 
 ! block list:
+/yandex.ru/an/
+||cackle.me^
 ||log.strm.yandex.ru^
 ||dzeninfra.ru/ads/*^
 ||dzeninfra.ru/an/*^
