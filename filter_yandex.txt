@@ -71,12 +71,12 @@
 
 ! block list:
 ||log.strm.yandex.ru^
-||dzeninfra.ru/ads/^
-||dzeninfra.ru/an/^
-||dzen.ru/ads/^
-||dzen.ru/an/^
-||yandex.ru/ads/^
-||yandex.ru/an/^
+||dzeninfra.ru/ads/*^
+||dzeninfra.ru/an/*^
+||dzen.ru/ads/*^
+||dzen.ru/an/*^
+||yandex.ru/ads/*^
+||yandex.ru/an/*^
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
 ||avatars.mds.yandex.net^
