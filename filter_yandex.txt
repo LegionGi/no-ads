@@ -70,7 +70,7 @@
 
 
 ! block list:
-||dzeninfra.ru^
+||dzeninfra.ru/ads/^
 ||dzen.ru/ads/^
 ||yandex.ru/ads/^
 ||report.appmetrica.yandex.net^
