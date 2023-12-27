@@ -72,6 +72,8 @@
 
 ! block list:
 
+
+||sba.yandex.net^
 ||counter.yadro.ru^
 ||log.strm.yandex.ru^
 ||report.appmetrica.yandex.net^
