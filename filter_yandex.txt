@@ -186,7 +186,11 @@
 ||qos-api.ott.yandex.net^
 ||kiks.yandex.ru^
 ||web-metrica.yandex.ru^
-
+||avatars.dzeninfra.ru^
+||ms.dzen.ru^
+||mc.dzen.ru^
+||clck.dzen.ru^
+||static.dzeninfra.ru^
 
 
 ! SECTION: Anti-adblock - Ads reinjection
