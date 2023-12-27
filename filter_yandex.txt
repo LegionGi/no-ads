@@ -66,7 +66,7 @@
 @@||strm.yandex.ru^
 @@||ott.yandex.net^
 @@||plus.yandex.net^
-
+@@||storage.mds.yandex.net^ !MTS Music
 
 
 
