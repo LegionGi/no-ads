@@ -89,7 +89,6 @@
 ||bs.yandex.ru^
 ||clck.yandex.ru^
 ||informer.yandex.ru^
-||storage.mds.yandex.net^
 ||securepubads.g.doubleclick.net^
 ||ads.adfox.ru^
 ||yastatic.net^
