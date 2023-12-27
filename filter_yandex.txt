@@ -182,6 +182,7 @@
 ||rosenberg.appmetrica.yandex.net^
 ||abt.s3.yandex.net^
 ||2.dnscrypt-cert.browser.yandex.net^
+||api.browser.yandex.net^
 ||dns.yandex.ru^
 ||qos-api.ott.yandex.net^
 ||kiks.yandex.ru^
