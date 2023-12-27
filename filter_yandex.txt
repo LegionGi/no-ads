@@ -72,7 +72,6 @@
 
 ! block list:
 ||yandex.ru^
-||dzen.ru^
 ||yandex.ru/ads/*
 ||yandex.ru/an/*
 ||counter.yadro.ru^
