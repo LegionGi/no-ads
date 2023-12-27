@@ -71,11 +71,8 @@
 
 
 ! block list:
-||yandex.ru^
-||yandex.ru/ads/*
-||yandex.ru/an/*
+
 ||counter.yadro.ru^
-||cackle.me^
 ||log.strm.yandex.ru^
 ||dzeninfra.ru/ads/*/
 ||dzeninfra.ru/an/*/
