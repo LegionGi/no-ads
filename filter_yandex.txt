@@ -67,8 +67,8 @@
 @@||ott.yandex.net^
 @@||plus.yandex.net^
 @@||storage.mds.yandex.net^ !MTS Music
-@@||avatars.mds.yandex.net^ !Yandex mail
-
+||avatars.mds.yandex.net^ !Yandex mail
+@@||mc.yandex.ru^  !Yandex mail
 
 ! block list:
 
@@ -80,7 +80,6 @@
 ||mobile.yandexadexchange.net^
 ||pixel.yabidos.com^
 ||an.yandex.ru^
-||mc.yandex.ru^
 ||advertising.yandex.ru^
 ||bs-meta.yandex.ru^
 ||grade.market.yandex.ru^
