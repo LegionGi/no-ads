@@ -13,6 +13,7 @@
 
 
 ! allow list:
+
 @@||passport.yandex.ru^
 @@||afisha.yandex.ru^
 @@||auto.yandex.ru^
@@ -70,6 +71,7 @@
 
 
 ! block list:
+||yandex.ru^$impotant
 ||yandex.ru/ads/*
 ||yandex.ru/an/*
 ||counter.yadro.ru^
