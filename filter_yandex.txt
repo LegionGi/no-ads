@@ -32,9 +32,9 @@
 @@||images.yandex.ru^
 @@||internet.yandex.ru^
 @@||keyboard.yandex.ru^
-@@||mail.yandex.ru^
-@@||360.yandex.ru^
-@@||maps.yandex.ru^
+@@||mail.yandex.ru^$important
+@@||360.yandex.ru^$important
+@@||maps.yandex.ru^$important
 @@||market.yandex.ru^
 @@||metrika.yandex.ru^
 @@||mobile.yandex.ru^
@@ -71,8 +71,8 @@
 
 
 ! block list:
-||yandex.ru^$important
-||dzen.ru^$important
+||yandex.ru^
+||dzen.ru^
 ||yandex.ru/ads/*
 ||yandex.ru/an/*
 ||counter.yadro.ru^
