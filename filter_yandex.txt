@@ -14,32 +14,32 @@
 
 ! allow list:
 
-@@||passport.yandex.ru^^$important
+@@||passport.yandex.ru^
 @@||afisha.yandex.ru^
-@@||auto.yandex.ru^^$important
+@@||auto.yandex.ru^
 @@||blogs.yandex.ru^
 @@||bm.yandex.ru^
 @@||browser.yandex.ru^
 @@||calendar.yandex.ru^
 @@||collection.yandex.ru^
-@@||disk.yandex.ru^^$important
+@@||disk.yandex.ru^
 @@||ege.yandex.ru^
 @@||element.yandex.ru^
 @@||fotki.yandex.ru^
 @@||fx.yandex.ru^
 @@||help.yandex.ru^
 @@||ie.yandex.ru^
-@@||images.yandex.ru^^$important
+@@||images.yandex.ru^
 @@||internet.yandex.ru^
 @@||keyboard.yandex.ru^
-@@||mail.yandex.ru^$important
-@@||360.yandex.ru^$important
-@@||maps.yandex.ru^$important
+@@||mail.yandex.ru^
+@@||360.yandex.ru^
+@@||maps.yandex.ru^
 @@||market.yandex.ru^
 @@||metrika.yandex.ru^
 @@||mobile.yandex.ru^
-@@||music.yandex.ru^^$important
-@@||n.maps.yandex.ru^^$important
+@@||music.yandex.ru^
+@@||n.maps.yandex.ru^
 @@||news.yandex.ru^
 @@||opera.yandex.ru^
 @@||pdd.yandex.ru^
@@ -58,12 +58,12 @@
 @@||ticket.yandex.ru^
 @@||time.yandex.ru^
 @@||tv.yandex.ru^
-@@||video.yandex.ru^^$important
+@@||video.yandex.ru^
 @@||visual.yandex.ru^
 @@||wdgt.yandex.ru^
 @@||webmaster.yandex.ru^
 @@||yaca.yandex.ru^
-@@||strm.yandex.ru^^$important
+@@||strm.yandex.ru^
 @@||ott.yandex.net^
 @@||plus.yandex.net^
 
@@ -74,12 +74,6 @@
 
 ||counter.yadro.ru^
 ||log.strm.yandex.ru^
-||dzeninfra.ru/ads/*/
-||dzeninfra.ru/an/*/
-||dzen.ru/ads/*/
-||dzen.ru/an/*/
-||yandex.ru/ads/*/
-||yandex.ru/an/*/
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
 ||avatars.mds.yandex.net^
