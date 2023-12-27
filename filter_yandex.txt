@@ -71,8 +71,8 @@
 
 
 ! block list:
-||yandex.ru^$impotant
-||dzen.ru^$impotant
+||yandex.ru^$important
+||dzen.ru^$important
 ||yandex.ru/ads/*
 ||yandex.ru/an/*
 ||counter.yadro.ru^
