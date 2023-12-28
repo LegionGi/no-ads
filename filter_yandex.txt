@@ -71,7 +71,7 @@
  
 
 ! block list:
-||avatars.mds.yandex.net^
+@@||avatars.mds.yandex.net^
 ||mc.yandex.ru^
 ||sba.yandex.net^
 ||counter.yadro.ru^
