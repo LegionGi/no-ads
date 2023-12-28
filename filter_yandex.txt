@@ -71,7 +71,7 @@
  
 
 ! block list:
-||yandex.ru^  !need to redirect to yandex.com
+@@||yandex.ru^  !need to redirect to yandex.com
 
 ||mc.yandex.ru^
 ||sba.yandex.net^
