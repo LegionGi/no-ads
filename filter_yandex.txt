@@ -67,11 +67,11 @@
 @@||ott.yandex.net^
 @@||plus.yandex.net^
 @@||storage.mds.yandex.net^ !MTS Music
-@@||avatars.mds.yandex.net^$important  !Yandex mail
+
  
 
 ! block list:
-
+||avatars.mds.yandex.net^
 ||mc.yandex.ru^
 ||sba.yandex.net^
 ||counter.yadro.ru^
@@ -79,7 +79,6 @@
 ||report.appmetrica.yandex.net^
 ||mobile.yandexadexchange.net^
 ||pixel.yabidos.com^
-||an.yandex.ru^
 ||advertising.yandex.ru^
 ||bs-meta.yandex.ru^
 ||grade.market.yandex.ru^
@@ -91,7 +90,6 @@
 ||ads.adfox.ru^
 ||yastatic.net^
 ||yandex.com^
-||an.yandex.ru^
 ||adfox.yandex.ru^
 ||adsdk.yandex.ru^
 ||awaps.yandex.net^
