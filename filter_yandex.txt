@@ -33,7 +33,7 @@
 @@||internet.yandex.ru^
 @@||keyboard.yandex.ru^
 @@||mail.yandex.ru^
-@@||360.yandex.ru^  !Yandex mail
+@@||360.yandex.ru^  
 @@||maps.yandex.ru^
 @@||market.yandex.ru^
 @@||metrika.yandex.ru^
@@ -67,11 +67,11 @@
 @@||ott.yandex.net^
 @@||plus.yandex.net^
 @@||storage.mds.yandex.net^ !MTS Music
-
+@@||avatars.mds.yandex.net^$important  !Yandex mail
  
 
 ! block list:
-@@||avatars.mds.yandex.net^
+
 ||mc.yandex.ru^
 ||sba.yandex.net^
 ||counter.yadro.ru^
