@@ -72,7 +72,7 @@
 
 ! block list:
 ||yandex.ru^  !need to redirect to yandex.com
-||avatars.mds.yandex.net^
+
 ||mc.yandex.ru^
 ||sba.yandex.net^
 ||counter.yadro.ru^
